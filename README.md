@@ -7,7 +7,7 @@
 
 It is a demo file using html, css, java script and bootstrap.
 <br>
-Used various background colors and also created an alert button using js. Also added a card using bootstrap...
+Used various background colors and created an alert button using js. Also added a card using bootstrap...
 <br>
 It mainly focusses on making the freshers aware of how to create and collaborate on websites using github as an open source contribution. 
 
